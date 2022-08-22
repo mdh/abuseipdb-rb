@@ -1,5 +1,4 @@
 require 'faraday'
-require 'faraday_middleware'
 
 require 'abuseipdb/configuration'
 require 'abuseipdb/endpoints/base'
